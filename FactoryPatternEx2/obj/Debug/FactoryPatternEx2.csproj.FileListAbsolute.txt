@@ -1,0 +1,8 @@
+C:\Users\steve\repos\FactoryPatternEx2\FactoryPatternEx2\obj\Debug\FactoryPatternEx2.csproj.AssemblyReference.cache
+C:\Users\steve\repos\FactoryPatternEx2\FactoryPatternEx2\obj\Debug\FactoryPatternEx2.csproj.SuggestedBindingRedirects.cache
+C:\Users\steve\repos\FactoryPatternEx2\FactoryPatternEx2\obj\Debug\FactoryPatternEx2.csproj.CoreCompileInputs.cache
+C:\Users\steve\repos\FactoryPatternEx2\FactoryPatternEx2\bin\Debug\FactoryPatternEx2.exe.config
+C:\Users\steve\repos\FactoryPatternEx2\FactoryPatternEx2\bin\Debug\FactoryPatternEx2.exe
+C:\Users\steve\repos\FactoryPatternEx2\FactoryPatternEx2\bin\Debug\FactoryPatternEx2.pdb
+C:\Users\steve\repos\FactoryPatternEx2\FactoryPatternEx2\obj\Debug\FactoryPatternEx2.exe
+C:\Users\steve\repos\FactoryPatternEx2\FactoryPatternEx2\obj\Debug\FactoryPatternEx2.pdb
